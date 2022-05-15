@@ -1,4 +1,10 @@
-# Streamlit_data_profiling
+# Streamlit data profiling
 
-Gonna write some more, as for now here is the link to deployed app
-https://share.streamlit.io/emptynonsens/streamlit_data_profiling/main
+Deployed app: https://share.streamlit.io/emptynonsens/streamlit_data_profiling/main
+
+Streamlit app made for quick statystical analysis of data. 
+App uses several datasets from https://github.com/mwaskom/seaborn-data. 
+
+App uses pandas_profiling (https://github.com/ydataai/pandas-profiling) which is a data explanatory python library. 
+Enjoy the app. 
+
