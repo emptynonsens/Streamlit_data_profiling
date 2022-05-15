@@ -5,7 +5,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 st.write('[GITHUB](https://github.com/emptynonsens/Streamlit_data_profiling)', unsafe_allow_html=True)
-#c = st.container()
+c = st.container()
 
 def print_data(dataSource):
     data = pd.read_csv(dataSource)
