@@ -1,6 +1,6 @@
 # Streamlit data profiling
 
-Deployed app: https://share.streamlit.io/emptynonsens/streamlit_data_profiling/main
+[Deployed app link](https://share.streamlit.io/emptynonsens/streamlit_data_profiling/main)
 
 Streamlit app made for quick statystical analysis of data. 
 App uses several [seaborn](https://github.com/mwaskom/seaborn-data) datasets. 
